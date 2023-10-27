@@ -2,10 +2,10 @@
 CODSOFT internship - JAVA Development - Tasks by; Priyant
 IMAGES:
 
-![Alt text](https://github.com/Pbhacks/Prodigy_SD_01/blob/main/Screenshot%202023-10-09%20182105.png)
-![Alt text](https://github.com/Pbhacks/Prodigy_SD_01/blob/main/Screenshot%202023-10-09%20182105.png)
-![Alt text](https://github.com/Pbhacks/Prodigy_SD_01/blob/main/Screenshot%202023-10-09%20182105.png)
-![Alt text](https://github.com/Pbhacks/Prodigy_SD_01/blob/main/Screenshot%202023-10-09%20182105.png)
+![Alt text](https://github.com/Pbhacks/CODSOFT/blob/main/1.png)
+![Alt text](https://github.com/Pbhacks/CODSOFT/blob/main/2.png)
+![Alt text](https://github.com/Pbhacks/CODSOFT/blob/main/3.png)
+![Alt text](https://github.com/Pbhacks/CODSOFT/blob/main/4.png)
 
 
  USER MANUAL
